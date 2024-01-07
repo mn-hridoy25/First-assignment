@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+.banner{
+    margin: auto;
+    margin-top: 10px;
+    background-image: url(resources/Banner.jpg);
+    height: 600px;
+    width: 1320px;
+    -webkit-gradient(black , white);
+    border-radius: 16px;
+}
+
+.fast-text{
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.hny{
+    font-size: 32px;
+    font-family: 'Merriweather', serif;;
+}
+
+.nypc{
+    font-size: 72px;
+    font-family: 'Merriweather', serif;
+}
+
+.off{
+    height: 806px;
+    width: 802.9px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 25px;
+}
