@@ -35,7 +35,29 @@ body{
 .off{
     height: 806px;
     width: 802.9px;
-    justify-content: center;
     margin: auto;
-    margin-top: 25px;
+    font-size: 88px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    color: red;
+}
+
+.ohdb{
+    color: red;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+}
+
+.ac{
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.nyd{
+    height: 500px;
+    width: 802.9px;
+    
 }
