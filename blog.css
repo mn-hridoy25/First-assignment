@@ -1,5 +1,4 @@
 body{
-    background-color: antiquewhite;
     text-align: center;
     height: auto;
     width: auto;
@@ -110,5 +109,27 @@ a{
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     margin-left: 110px;
+    color: white;
+}
+
+.shedule{
+    height: 482px;
+    width: 1320px;
+    background-image: linear-gradient(pink , white);
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    
+}
+
+.jn{
+    padding: 10px;
+    border-radius: 10px;
+    background: red;font-weight: bold;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
     color: white;
 }
