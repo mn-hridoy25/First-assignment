@@ -95,6 +95,8 @@ body{
 .dsac{
     font-size: 18px;
     font-family: 'Inter', sans-serif;
+    text-align: left;
+    color: rgb(136, 126, 112);
 }
 
 a{
@@ -134,16 +136,47 @@ a{
 .table-1{
     height: 463px;
     width: 1320px;
+    margin: auto;
 }
 
 .td-1{
     height: auto;
     width: 420px;
-    align-items: left;
+    text-align: left;
 }
 
 .nbo{
     color: red;
-    font-size: 24;
-    
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
 }
+
+.cos{
+    font-size: 48px;
+    font-family: 'Merriweather', serif;
+    color: black;
+}
+
+.td-2{
+    height: auto;
+    width: 390px;
+    margin: auto;
+}
+
+.td-3{
+    align-items: left;
+    height: auto;
+    width: 420px;
+    text-align: left;
+}
+
+.tt4{
+    color: red;
+    text-align: left;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+
