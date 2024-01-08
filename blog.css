@@ -57,7 +57,6 @@ body{
 .nyd{
     height: 500px;
     width: 802.9px;
-    
 }
 
 .section-3{
@@ -75,7 +74,6 @@ body{
     height: 100%;
     width: 60%;
     text-align: left;
-
 }
 
 .right-3{
@@ -122,7 +120,6 @@ a{
     font-family: 'Inter', sans-serif;
     font-size: 32px;
     font-weight: 500;
-    
 }
 
 .jn{
@@ -132,4 +129,21 @@ a{
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     color: white;
+}
+
+.table-1{
+    height: 463px;
+    width: 1320px;
+}
+
+.td-1{
+    height: auto;
+    width: 420px;
+    align-items: left;
+}
+
+.nbo{
+    color: red;
+    font-size: 24;
+    
 }
