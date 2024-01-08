@@ -6,7 +6,7 @@ body{
 .banner{
     margin: auto;
     margin-top: 10px;
-    background-image: url(resources/Banner.jpg);
+    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("resources/Banner.jpg");
     height: 600px;
     width: 1320px;
     border-radius: 16px;
@@ -60,11 +60,12 @@ body{
 }
 
 .section-3{
-    background-image: url(resources/Vectorrr.jpg);
+    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("resources/Vectorrr.jpg");
     display: flex;
     height: 600px;
     width: 1320px;
     margin: auto;
+    border-radius: 16px;
 }
 
 .left-3{
@@ -179,4 +180,48 @@ a{
     font-family: 'Inter', sans-serif;
 }
 
+.section-4{
+    height: auto;
+    width: 1320px;
+    margin: auto;
+    text-align: left;
+}
 
+.tbg{
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+
+.oap{
+    font-size: 48px;
+    font-family: 'Merriweather', serif;
+}
+
+.section-5{
+    height: auto;
+    width: 1320px;
+    margin: auto;
+    display: flex;
+}
+
+.pictures{
+    margin: 8px;
+    height: 450px;
+    width: 424px;
+    border-radius: 16px;
+}
+
+.section-6{
+    height: 616px;
+    width: 1320px;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 16px;
+}
+
+.sn{
+    font-size: 48px;
+    font-family: 'Merriweather', serif;
+}
