@@ -245,3 +245,52 @@ a{
     background-color: red;
     border-radius: 50px;
 }
+
+.footer{
+    width: 1500px;
+    background-color: #070211;
+}
+
+.bbr{
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    margin-left: 20px;
+}
+
+.fs-1{
+    margin: auto;
+    display: flex;
+    width: 1320px;
+    height: auto;
+}
+
+.bgf{
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    text-align: left;
+}
+
+.fd-1{
+    height: auto;
+    width: 400px;
+    align-items: right;
+}
+
+.Unsubscribe{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    text-align: right;
+    color: white;
+}
+
+.arr{
+    width: 800px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
